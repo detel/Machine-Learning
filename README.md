@@ -1,4 +1,4 @@
-# Machine-Learning
+# Machine Learning
 
 **Topics Coverered**
   * Regression
