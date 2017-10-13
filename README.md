@@ -5,4 +5,5 @@
   * Classification
   * Natural Language Processing
   * Deep Learning
-       * [Artifical Neural Networks](https://github.com/detel/Machine-Learning/tree/master/ArtificialNeuralNetwork)
+       * [Artificial Neural Networks](https://github.com/detel/Machine-Learning/tree/master/ArtificialNeuralNetwork)
+       * [Convolutional Neural Networks](https://github.com/detel/Machine-Learning/tree/master/ConvolutionalNeuralNetwork)
