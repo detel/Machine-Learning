@@ -1,5 +1,9 @@
 # Machine Learning
 
+I will try to implement each of the following sections in *Python* and *R*.
+
+Dataset belongs to Super Data Science (https://www.superdatascience.com/machine-learning)
+
 **Topics to be Coverered**
   * Regression
        * Simple Linear Regression
