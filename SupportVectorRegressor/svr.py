@@ -15,7 +15,7 @@ dataset = pd.read_csv('Position_Salaries.csv')
 X = dataset.iloc[:, 1:2].values
 y = dataset.iloc[:, 2].values
 
-#Reshaping X and y is needed for newer versions
+# Reshaping X and y is needed for newer versions
 X = X.reshape(-1, 1)
 y = y.reshape(-1, 1)
 
