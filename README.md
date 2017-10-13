@@ -1,6 +1,6 @@
 # Machine Learning
 
-**Topics Coverered**
+**Topics to be Coverered**
   * Regression
        * Simple Linear Regression
        * [Multiple Linear Regression](https://github.com/detel/Machine-Learning/tree/master/MultipleLinearRegression)
