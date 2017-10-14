@@ -27,7 +27,7 @@ Dataset belongs to Super Data Science (https://www.superdatascience.com/machine-
        * [Eclat](https://github.com/detel/Machine-Learning/tree/master/EclatAlgorithm)
   * Reinforcement Learning
        * [Upper Confidence Bound](https://github.com/detel/Machine-Learning/tree/master/UpperConfidenceBound)
-       * Thompson Sampling
+       * [Thompson Sampling](https://github.com/detel/Machine-Learning/tree/master/ThompsonSampling)
   * [Natural Language Processing](https://github.com/detel/Machine-Learning/tree/master/NaturalLanguageProcessing)
   * Deep Learning
        * [Artificial Neural Networks](https://github.com/detel/Machine-Learning/tree/master/ArtificialNeuralNetwork)
